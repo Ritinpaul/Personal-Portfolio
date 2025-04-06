@@ -10,4 +10,5 @@ This is a personal portfolio website designed to showcase the skills, projects, 
 - **Ionicons**: Vector icons for a clean and professional look.
 
 - ##Output
-![image](https://github.com/user-attachments/assets/80753160-d131-4561-a86d-6b5be2c07203)
+![image](https://github.com/user-attachments/assets/dbcf0704-24e5-4bda-b93f-f334360cbea9)
+
